@@ -1,7 +1,7 @@
-# Caesar Cipher
+# Caesar Shifter
 
 ## Overview
-This project is a Python-based encryption and decryption tool that implements the Caesar cipher using a custom 95-character set.
+This project is a Python-based encryption and decryption tool that implements the Caesar shifter using a custom 95-character set.
 
 The program allows users to:
 - Encrypt messages by shifting characters forward
@@ -22,11 +22,11 @@ It demonstrates basic cryptography concepts and modular program design.
 ## How to Run
 1. Ensure you have [Python](https://www.python.org/downloads/) installed.
 2. Clone this repository:
-   `git clone https://github.com/AbdelhadiBarakat/CeaserCipher.git`
+   `git clone https://github.com/AbdelhadiBarakat/CeaserShifter.git`
 3. Navigate to the folder:
-   `cd CeaserCipher`
+   `cd CeaserShifter`
 4. Run the script:
-   `python CeaserCipher.py`
+   `python CeaserShifter.py`
 
 ## Technologies
 - Python
