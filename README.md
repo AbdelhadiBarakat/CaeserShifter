@@ -22,9 +22,9 @@ It demonstrates basic cryptography concepts and modular program design.
 ## How to Run
 1. Ensure you have [Python](https://www.python.org/downloads/) installed.
 2. Clone this repository:
-   `git clone https://github.com/AbdelhadiBarakat/CaeserShifter.git`
+   `git clone https://github.com/abdelhadibarakat/caeser-shifter.git`
 3. Navigate to the folder:
-   `cd CaeserShifter`
+   `cd caeser-shifter`
 4. Run the script:
    `python CaeserShifter.py`
 
